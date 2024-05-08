@@ -68,3 +68,8 @@ hr{
   width: 35rem;
   color:hsl(var(--purple),.5);
 }
+@media (max-width:600px){
+  .container{
+    max-width:27rem;
+  }
+}
