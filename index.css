@@ -53,7 +53,16 @@ h2 {
   display: flex;
   justify-content: space-between;
 }
-#a1,#a2,#a3,#a4 {
+#m1{
+  display: block;
+}
+#p1{
+  display: none;
+}
+#a1{
+  display: block;
+}
+#a2,#a3,#a4 {
   display: none;
 }
 #a4 {
