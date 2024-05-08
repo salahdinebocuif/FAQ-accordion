@@ -64,9 +64,13 @@ h4:hover{
 }
 #a1{
   display: block;
+  line-height: 2;
+  color:gray;
 }
 #a2,#a3,#a4 {
   display: none;
+  color:gray;
+  line-height: 2;
 }
 #a4 {
   margin-bottom: 1rem;
