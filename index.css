@@ -43,6 +43,9 @@ h2 {
   font-size: 3rem;
   font-weight: 800;
 }
+h4:hover{
+  color:var(--Grayish-purple)
+}
 .head,.FAQ {
   margin: 0 2rem;
 }
